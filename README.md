@@ -84,16 +84,6 @@ shopping-list/
 
 ---
 
-## 📸 Screenshots
-
-Add some screenshots here to showcase your app in action:
-
-| Desktop View                              | Mobile View                              |
-|-------------------------------------------|------------------------------------------|
-| ![Desktop View](https://via.placeholder.com/400) | ![Mobile View](https://via.placeholder.com/400) |
-
----
-
 ## ✨ Future Enhancements
 
 - Add persistence with local storage or a backend database.
